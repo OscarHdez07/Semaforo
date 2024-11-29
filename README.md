@@ -10,4 +10,5 @@ Ejemplos de objetivos específicos:
 4. Evaluar diferentes tiempos de cambio de luces para analizar su impacto en la fluidez del tráfico.
 
 
-![Imagen de semáforo] (![image](https://github.com/user-attachments/assets/26d9a0dc-ad35-4885-b29e-f202d60540ff))
+# Simulación de Semáforos
+![image](https://github.com/user-attachments/assets/26d9a0dc-ad35-4885-b29e-f202d60540ff)
